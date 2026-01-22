@@ -1,4 +1,4 @@
 # FIRST-REPO
 This is my first GIT Repository.
 <br>
-Author - Vigyaat Mohan
+Author - Vigyaat Mohan (Warrior)
